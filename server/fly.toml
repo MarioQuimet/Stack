@@ -1,0 +1,7 @@
+app = "Tareas"
+
+
+
+[[services]]
+  internal_port = 4000
+  protocol = "tcp"
